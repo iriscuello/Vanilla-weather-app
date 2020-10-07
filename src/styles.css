@@ -1,1 +1,36 @@
+.weather-style {
+  max-width: 600px;
+  border: 1px solid black;
+  margin: 40px auto;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 0;
+}
 
+footer {
+  margin: 0 auto;
+  position: relative;
+  max-width: 600px;
+}
+
+#current {
+  padding-top: 30px;
+  list-style: none;
+}
+
+#icon {
+  padding-left: 90px;
+  font-size: 60px;
+  background-image: linear-gradient(
+    to top,
+    #3f51b1 0%,
+    #5a55ae 13%,
+    #7b5fac 25%,
+    #8f6aae 38%,
+    #a86aa4 50%,
+    #cc6b8e 62%,
+    #f18271 75%,
+    #f3a469 87%,
+    #f7c978 100%
+  );
+}
