@@ -1,4 +1,6 @@
 h1 {
+  font-size: 90px;
+  line-height: 2px;
   font-family: "David Libre", serif;
 }
 
@@ -21,6 +23,7 @@ footer {
   list-style: none;
   font-size: 20px;
   padding-left: 10px;
+  padding-top: 20px;
 }
 
 #icon {
